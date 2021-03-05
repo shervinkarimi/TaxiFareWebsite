@@ -4,10 +4,10 @@ import requests
 import numpy as np
 import pandas as pd
 
-st.image('image.jpg')
+st.image('Picture1.png')
 
 
-st.markdown("<h1 style='text-align: center; color: dark-red;'>FIRE TAXI</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: dark-red;'>MARSEILLE DEEP TAXI</h1>", unsafe_allow_html=True)
 
 '''
 # When
