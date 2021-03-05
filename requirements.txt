@@ -1,0 +1,6 @@
+streamlit
+datetime
+requests
+numpy
+pandas
+PIL
